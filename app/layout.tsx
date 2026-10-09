@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Educação Física | Sagrado",
-  description: "Sua plataforma de estudo para Educação Física no ENEM.",
+  title: "Estudar ENEM",
+  description: "Sua plataforma de preparação para o ENEM.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

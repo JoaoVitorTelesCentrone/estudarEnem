@@ -18,8 +18,8 @@ export default function SiteHeader({ active }: SiteHeaderProps) {
   return (
     <header className="topbar">
       <a className="brand" href="/" onClick={() => setOpen(false)}>
-        <span className="brand-mark">S</span>
-        <span><strong>Sagrado</strong><small>Educação Física</small></span>
+        <span className="brand-mark">E</span>
+        <span><strong>Estudar</strong><small>ENEM</small></span>
       </a>
       <button className="menu-toggle" type="button" aria-label={open ? "Fechar menu" : "Abrir menu"} aria-expanded={open} onClick={() => setOpen((value) => !value)}>
         <span aria-hidden="true">☰</span><span>{open ? "Fechar" : "Menu"}</span>
