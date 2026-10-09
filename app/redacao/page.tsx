@@ -4,8 +4,6 @@ import { useMemo, useState } from "react";
 import { redacaoTopics } from "../data/redacao";
 import SiteHeader from "../components/site-header";
 
-type Provider = "gemini" | "openai";
-
 const pickTopic = (currentId: string | undefined, category: string) => {
   const pool = redacaoTopics.filter((topic) => (!category || topic.categoria === category) && topic.id !== currentId);
   return pool[Math.floor(Math.random() * pool.length)] ?? redacaoTopics[0];
@@ -17,7 +15,6 @@ export default function RedacaoPage() {
   const [topic, setTopic] = useState<(typeof redacaoTopics)[number] | null>(null);
   const [showDetails, setShowDetails] = useState(false);
   const [essay, setEssay] = useState("");
-  const [provider, setProvider] = useState<Provider>("gemini");
   const [evaluation, setEvaluation] = useState<string | null>(null);
   const [evaluating, setEvaluating] = useState(false);
   const [evaluationError, setEvaluationError] = useState<string | null>(null);
@@ -40,7 +37,7 @@ export default function RedacaoPage() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          provider,
+          provider: "openai",
           essay,
           topic: { titulo: topic.titulo, enunciado: topic.enunciado },
         }),
@@ -94,16 +91,11 @@ export default function RedacaoPage() {
             <div className="essay-evaluator">
               <div className="essay-evaluator-head">
                 <div><p className="section-label">AVALIAR REDAÇÃO</p><h3>Escreva e receba uma devolutiva</h3></div>
-                <span>Seu texto fica no seu navegador e é enviado somente ao avaliador escolhido.</span>
+                <span>Seu texto fica no seu navegador e é enviado somente para avaliação.</span>
               </div>
               <label htmlFor="essay">Sua redação</label>
               <textarea id="essay" value={essay} onChange={(event) => setEssay(event.target.value)} placeholder="Digite ou cole sua redação aqui…" rows={14} maxLength={20000} />
               <div className="essay-evaluator-actions">
-                <fieldset>
-                  <legend>Avaliar com</legend>
-                  <label><input type="radio" name="provider" value="gemini" checked={provider === "gemini"} onChange={() => setProvider("gemini")} /> Gemini</label>
-                  <label><input type="radio" name="provider" value="openai" checked={provider === "openai"} onChange={() => setProvider("openai")} /> OpenAI</label>
-                </fieldset>
                 <button className="button primary" onClick={evaluate} disabled={evaluating || essay.trim().length < 80}>{evaluating ? "Avaliando…" : "Avaliar redação"}</button>
               </div>
               {essay.trim().length > 0 && essay.trim().length < 80 && <small className="essay-hint">Escreva pelo menos 80 caracteres para solicitar a avaliação.</small>}

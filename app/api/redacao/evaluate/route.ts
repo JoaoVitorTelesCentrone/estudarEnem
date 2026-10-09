@@ -59,8 +59,8 @@ async function evaluateWithGemini(prompt: string, apiKey: string) {
 
 export async function POST(request: NextRequest) {
   try {
-    const body = await request.json() as { provider?: Provider; essay?: string; topic?: { titulo?: string; enunciado?: string } };
-    const provider = body.provider === "openai" ? "openai" : "gemini";
+    const body = await request.json() as { essay?: string; topic?: { titulo?: string; enunciado?: string } };
+    const provider: Provider = "openai";
     const essay = body.essay?.trim() ?? "";
     const topic = { titulo: body.topic?.titulo?.trim() ?? "", enunciado: body.topic?.enunciado?.trim() ?? "" };
 
