@@ -1,0 +1,2267 @@
+{
+  "versao": "0.1.0",
+  "gerado_em": "2026-10-09",
+  "escopo": {
+    "anos": [
+      2015,
+      2025
+    ],
+    "aplicacoes_incluidas": [
+      "regular"
+    ],
+    "disciplina": "Educação Física",
+    "status": "catalogo_preliminar_nao_pronto_para_publicacao"
+  },
+  "avisos": [
+    "Não é um banco completo validado: posições identificadas sem extração dos PDFs oficiais.",
+    "O catálogo Memorize usa numeração 1–45 da área de Linguagens em vários anos, que não equivale ao número impresso do caderno.",
+    "A questão de 2015 foi identificada em outro catálogo e usa a numeração 133 do caderno; por isso o sistema de numeração é diferente.",
+    "O catálogo Memorize não apresenta 2015 regular; a inclusão de q133 veio de Questões ENEM e necessita reconciliação.",
+    "Cada ano tem diversas cores e ordem diferente: escolher uma versão oficial e mapear posição, caderno e gabarito correspondente.",
+    "Enunciado, alternativas, imagens e respostas estão nulos até validação efetiva em fontes oficiais.",
+    "Não republicar conteúdo de plataformas de terceiros sem checar direitos e termos."
+  ],
+  "total_identificadas": 35,
+  "questoes": [
+    {
+      "id": "enem-2015-regular-edfis-133",
+      "ano": 2015,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 133,
+      "sistema_numeracao": "caderno_geral",
+      "numero_caderno_oficial": 133,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2015",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://questoesenem.app/provas/enem-2015/questao-133/"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2016-regular-edfis-128",
+      "ano": 2016,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 128,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2016",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2016-regular-edfis-129",
+      "ano": 2016,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 129,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2016",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2016-regular-edfis-130",
+      "ano": 2016,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 130,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2016",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2017-regular-edfis-019",
+      "ano": 2017,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 19,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2017",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2017-regular-edfis-031",
+      "ano": 2017,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 31,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2017",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2018-regular-edfis-013",
+      "ano": 2018,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 13,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2018",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2018-regular-edfis-026",
+      "ano": 2018,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 26,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2018",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2018-regular-edfis-031",
+      "ano": 2018,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 31,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2018",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2018-regular-edfis-043",
+      "ano": 2018,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 43,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2018",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2019-regular-edfis-009",
+      "ano": 2019,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 9,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2019",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2019-regular-edfis-011",
+      "ano": 2019,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 11,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2019",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2019-regular-edfis-027",
+      "ano": 2019,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 27,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2019",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2019-regular-edfis-035",
+      "ano": 2019,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 35,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2019",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2020-regular-edfis-015",
+      "ano": 2020,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 15,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2020",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2020-regular-edfis-036",
+      "ano": 2020,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 36,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2020",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2020-regular-edfis-042",
+      "ano": 2020,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 42,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2020",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2021-regular-edfis-017",
+      "ano": 2021,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 17,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2021",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2021-regular-edfis-019",
+      "ano": 2021,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 19,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2021",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2022-regular-edfis-020",
+      "ano": 2022,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 20,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2022",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2022-regular-edfis-034",
+      "ano": 2022,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 34,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2022",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2023-regular-edfis-035",
+      "ano": 2023,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 35,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2023",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2023-regular-edfis-040",
+      "ano": 2023,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 40,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2023",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2023-regular-edfis-041",
+      "ano": 2023,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 41,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2023",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2023-regular-edfis-042",
+      "ano": 2023,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 42,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2023",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2024-regular-edfis-007",
+      "ano": 2024,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 7,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2024",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2024-regular-edfis-009",
+      "ano": 2024,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 9,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2024",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2024-regular-edfis-023",
+      "ano": 2024,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 23,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2024",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2024-regular-edfis-026",
+      "ano": 2024,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 26,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2024",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2024-regular-edfis-040",
+      "ano": 2024,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 40,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2024",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2024-regular-edfis-044",
+      "ano": 2024,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 44,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2024",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2025-regular-edfis-012",
+      "ano": 2025,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 12,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2025",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2025-regular-edfis-018",
+      "ano": 2025,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 18,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2025",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2025-regular-edfis-019",
+      "ano": 2025,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 19,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2025",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    },
+    {
+      "id": "enem-2025-regular-edfis-027",
+      "ano": 2025,
+      "exame": "ENEM",
+      "aplicacao": "regular",
+      "area": "Linguagens, Códigos e suas Tecnologias",
+      "disciplina": "Educação Física",
+      "numero_catalogo": 27,
+      "sistema_numeracao": "indice_linguagens_terceiros",
+      "numero_caderno_oficial": null,
+      "caderno_referencia": null,
+      "pagina_pdf": null,
+      "tema": null,
+      "subtemas": [],
+      "competencia": null,
+      "habilidade": null,
+      "dificuldade": null,
+      "enunciado": null,
+      "texto_apoio": null,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "B",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "C",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "D",
+          "texto": null,
+          "imagens": []
+        },
+        {
+          "letra": "E",
+          "texto": null,
+          "imagens": []
+        }
+      ],
+      "gabarito_oficial": null,
+      "resolucao_comentada": null,
+      "imagens": [],
+      "fontes": {
+        "inep_ano": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2025",
+        "pdf_prova": null,
+        "pdf_gabarito": null,
+        "catalogo_identificacao": "https://www.memorizevestibular.com/blog/questoes/materia/educacao-fisica"
+      },
+      "verificacao": {
+        "estado": "identificada",
+        "classificacao_confirmada_no_pdf": false,
+        "conteudo_conferido_no_pdf": false,
+        "gabarito_conferido_no_pdf": false,
+        "imagens_conferidas": false,
+        "observacoes": "Identificação preliminar por catálogo independente; revisar prova regular oficial na versão de caderno escolhida."
+      }
+    }
+  ]
+}
