@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import SiteHeader from "../../components/site-header";
+import { catalog } from "../../data/catalog";
 
 type Question = {
   title: string;
@@ -21,11 +22,11 @@ export default function NewExamPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [done, setDone] = useState(false);
-  const [amount, setAmount] = useState(90);
+  const [amount, setAmount] = useState(catalog.length);
 
   const normalizeAmount = (value: string | null) => {
     const parsed = Number(value);
-    return Number.isInteger(parsed) && parsed >= 1 && parsed <= 90 ? parsed : 90;
+    return Number.isInteger(parsed) && parsed >= 1 && parsed <= catalog.length ? parsed : catalog.length;
   };
 
   const load = (requestedAmount = amount) => {
@@ -77,8 +78,8 @@ export default function NewExamPage() {
         <div className="challenge-head">
           <a href="/simulado" className="back-link">← Voltar aos simulados</a>
           <p className="kicker"><span /> Simulado único</p>
-          <h1>Uma prova nova, feita para você.</h1>
-          <p>{amount} questões reais, sorteadas entre os anos disponíveis. A combinação muda a cada novo simulado.</p>
+          <h1>Um treino de Educação Física, feito para você.</h1>
+          <p>{amount} questões de Educação Física, sorteadas entre os anos disponíveis. A combinação muda a cada novo simulado.</p>
           {questions.length > 0 && (
             <div className="progress-row">
               <span>Questão {done ? questions.length : current + 1} de {questions.length}</span>
@@ -87,7 +88,7 @@ export default function NewExamPage() {
           )}
         </div>
 
-        {loading && <section className="result-card challenge-loading"><div className="reader-loading"><span /> Montando suas {amount} questões…</div></section>}
+        {loading && <section className="result-card challenge-loading"><div className="reader-loading"><span /> Montando suas {amount} questões de Educação Física…</div></section>}
         {error && <section className="result-card"><h2>Não foi possível criar agora.</h2><p>{error}</p><button onClick={() => load()}>Tentar novamente</button></section>}
 
         {!loading && !error && done && (

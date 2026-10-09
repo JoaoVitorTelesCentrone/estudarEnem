@@ -1,32 +1,25 @@
 import { NextRequest, NextResponse } from "next/server";
+import { catalog } from "../../../data/catalog";
 
-export const revalidate = 86400;
+export const revalidate = 3600;
 
 export async function GET(request: NextRequest) {
   const year = request.nextUrl.searchParams.get("year");
   if (!year || !/^\d{4}$/.test(year)) return NextResponse.json({ error: "Ano inválido." }, { status: 400 });
-  try {
-    // A API aceita no máximo 50 itens por página. Buscamos todas as páginas
-    // para que a tela do ano realmente mostre a prova completa.
-    const questions: unknown[] = [];
-    let offset = 0;
-    let total = Number.POSITIVE_INFINITY;
-    let metadata: Record<string, unknown> = {};
 
-    while (offset < total && offset < 500) {
-      const response = await fetch(`https://api.enem.dev/v1/exams/${year}/questions?limit=50&offset=${offset}`, { next: { revalidate: 86400 } });
-      if (!response.ok) return NextResponse.json({ error: "Este ano não está disponível." }, { status: response.status });
+  const entries = catalog.filter((question) => String(question.ano) === year);
+  if (!entries.length) return NextResponse.json({ error: "Não há questões de Educação Física disponíveis para este ano." }, { status: 404 });
 
-      const page = await response.json() as { questions?: unknown[]; metadata?: Record<string, unknown> };
-      const pageQuestions = Array.isArray(page.questions) ? page.questions : [];
-      questions.push(...pageQuestions);
-      metadata = page.metadata ?? metadata;
-      total = Number(metadata.total ?? questions.length);
+  const results = await Promise.allSettled(entries.map(async (entry) => {
+    const response = await fetch(`https://api.enem.dev/v1/exams/${entry.ano}/questions/${entry.numero_catalogo}`, { next: { revalidate: 3600 } });
+    if (!response.ok) throw new Error(`Questão ${entry.ano}/${entry.numero_catalogo} indisponível`);
+    return await response.json();
+  }));
 
-      if (pageQuestions.length === 0 || metadata.hasMore === false) break;
-      offset += pageQuestions.length;
-    }
+  const questions = results
+    .filter((result): result is PromiseFulfilledResult<unknown> => result.status === "fulfilled")
+    .map((result) => result.value);
 
-    return NextResponse.json({ questions, metadata: { ...metadata, limit: 50, offset: 0, total: questions.length, hasMore: false } });
-  } catch { return NextResponse.json({ error: "Não foi possível carregar o simulado agora." }, { status: 502 }); }
+  if (!questions.length) return NextResponse.json({ error: "Não foi possível carregar as questões de Educação Física deste ano." }, { status: 502 });
+  return NextResponse.json({ questions, metadata: { total: questions.length } });
 }

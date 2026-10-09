@@ -84,9 +84,9 @@ export default function YearExamPage() {
       <section className="challenge-shell">
         <div className="challenge-head">
           <a href="/simulado" className="back-link">← Voltar aos simulados</a>
-          <p className="kicker"><span /> Prova ENEM {year}</p>
-          <h1>Faça a prova de {year}.</h1>
-          <p>Responda uma questão por vez. O resultado aparece somente quando você concluir a prova.</p>
+          <p className="kicker"><span /> Educação Física · ENEM {year}</p>
+          <h1>Faça as questões de Educação Física de {year}.</h1>
+          <p>Responda uma questão por vez. O resultado aparece somente quando você concluir a seleção.</p>
           {questions.length > 0 && !loading && !error && (
             <div className="progress-row" aria-label={`Progresso: questão ${done ? questions.length : current + 1} de ${questions.length}`}>
               <span>Questão {done ? questions.length : current + 1} de {questions.length}</span>
