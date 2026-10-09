@@ -17,7 +17,6 @@ export default function Home() {
   const [answer, setAnswer] = useState<string | null>(null);
   const isCorrect = answer === "B";
   return <main>
-      <a className="brand" href="#inicio" aria-label="Educação Física Sagrado, início"><span className="brand-mark">S</span><span><strong>Sagrado</strong><small>Educação Física</small></span></a>
       <SiteHeader active="home" />
     <section className="hero" id="inicio">
       <div className="hero-copy"><p className="kicker"><span /> Educação Física no ENEM</p><h1>Estudar também é entrar em movimento.</h1><p className="hero-lead">Questões reais, trilhas por tema e desafios para você chegar ao ENEM com repertório e confiança.</p><div className="hero-actions"><a className="button primary" href="#trilhas">Encontrar minha trilha <Arrow /></a><a className="button quiet" href="#acervo">Ver questões por ano</a></div><div className="hero-note"><span className="pulse" /> Conteúdo construído para o Ensino Médio</div></div>
